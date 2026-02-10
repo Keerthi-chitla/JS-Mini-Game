@@ -32,8 +32,10 @@ The game automatically checks for a winner or a draw and allows users to restart
 ---
 
 ## 📂 Project Structure
-
+```plaintext
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
+---
